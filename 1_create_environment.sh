@@ -1,0 +1,1 @@
+conda create -n  dsp_project python=3.10 -y

@@ -9,10 +9,10 @@ git commit -m "Initial commit - Add code project"
 
 4. Tạo Repository trên GitHub
 URL:
-https://github.com/VuDuyThien2834/HUST2025_2025.2A_XuLyTinHieuSo.git
+https://github.com/VuDuyThien2834/HUST2025_2025.2A_XuLyTinHieuSo_ver2.git
 
 5. Kết nối Local Repo với GitHub
-git remote add origin https://github.com/VuDuyThien2834/HUST2025_2025.2A_XuLyTinHieuSo.git
+git remote add origin https://github.com/VuDuyThien2834/HUST2025_2025.2A_XuLyTinHieuSo_ver2.git
 
 6. Kéo các file được tạo trên Github Repo về
 git pull origin main --rebase
